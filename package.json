@@ -1,0 +1,22 @@
+{
+  "name": "qa-ai-suit-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiyah2525/qa-ai-suit-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiyah2525/qa-ai-suit-1/issues"
+  },
+  "homepage": "https://github.com/sofiyah2525/qa-ai-suit-1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
